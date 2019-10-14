@@ -1,0 +1,18 @@
+.jumbotron{
+    height: 90vh;
+    background-image: url('./images/png-superhero-he-is-rich-arrogant-and-a-genius-also-he-is-one-of-the-fewer-characters-here-who-have-all-the-qualities-as-listed-in-my-source-of-reference-422.png');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+
+/*pour centrer verticalement */
+text-align: center;
+position: relative;
+}
+.jumbo-text{
+    /*pour centrer verticalement */
+transform: translate (-30%, -30%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
